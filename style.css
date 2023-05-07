@@ -362,13 +362,13 @@ footer a {
   }
 
   .button-white:hover {
-    color: inherit;
-    background-color: inherit;
+    color: var(--color-black);
+    background-color: var(--color-white);
   }
 
   .button-black:hover {
-    color: inherit;
-    background-color: inherit;
+    color: var(--color-white);
+    background-color: var(--color-black);
   }
 
   .contact-section {
