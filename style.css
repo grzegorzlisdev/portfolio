@@ -366,7 +366,7 @@ footer a {
     background-color: var(--color-white);
   }
 
-  .button-black:hover {
+  .button-transparent:hover {
     color: var(--color-white);
     background-color: var(--color-black);
   }
